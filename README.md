@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mynuddin Chisty</h1>
-<h3 align="center">A passionate Full Stack Developer Crafting Web Excellence</h3>
-
-- 🌱 I’m currently learning **NextJs,Typescript,Algorithms**
-
-- 👯 I’m looking to collaborate on **Mern stack projects**
-
-- 💬 Ask me about **C++,Dsa,Mern Stack**
-
+<h1 align="center">Hey</h1>
+<h3 align="center">just like to build things!</h3>
 - 📫 How to reach me **chistym17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
